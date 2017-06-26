@@ -10,7 +10,7 @@ import com.sample.concurrent.exception.InvalidTokenSubmissionException;
 /**
  * Token which has a property to know to which token counter it belongs.
  * 
- * @author nagarro
+ * @author pbansal
  *
  */
 @Component

@@ -6,7 +6,7 @@ package com.sample.concurrent.exception;
 /**
  * Exception thrown when attempt to submit invalid token is detected.
  * 
- * @author nagarro
+ * @author pbansal
  *
  */
 public class InvalidTokenSubmissionException extends Exception {

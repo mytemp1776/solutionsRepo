@@ -13,7 +13,7 @@ import com.sample.concurrent.exception.InvalidTokenSubmissionException;
 /**
  * Provides tokens for resource access.
  * 
- * @author nagarro
+ * @author pbansal
  *
  */
 @Component

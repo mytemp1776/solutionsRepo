@@ -10,7 +10,9 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler;
 import org.springframework.scheduling.config.ScheduledTaskRegistrar;
 
 /**
- * @author nagarro
+ * Scheduler config.
+ * 
+ * @author pbansal
  *
  */
 @Configuration

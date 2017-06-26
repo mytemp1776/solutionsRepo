@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 /**
  * Main application configuration class
  * 
- * @author nagarro
+ * @author pbansal
  *
  */
 @SpringBootApplication

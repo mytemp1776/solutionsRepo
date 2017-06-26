@@ -6,6 +6,12 @@ import org.springframework.stereotype.Component;
 
 import com.sample.concurrent.async.FooAsyncTask;
 
+/**
+ * Scheduler to kick start processing and continue submitting more and more tasks to fooPool.
+ * 
+ * @author pbansal
+ *
+ */
 @Component
 public class AsyncTaskScheduler {
 
